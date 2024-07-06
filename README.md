@@ -6,3 +6,13 @@
 ---
 ### Se utiliza un json para cargar los release notes
 ![alt text](image-2.png)
+
+
+### Ejectuar código
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
