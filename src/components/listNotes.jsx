@@ -5,7 +5,7 @@ class ListNotes extends React.Component {
         return (
             <>
 
-                <div className=' md:w-[280px] md:h-[1053px] md:fixed md:top-[260px]  md:left-[1400px] flex flex-col gap-[10px]'>
+                <div className=' md:w-[280px] md:h-[1053px] md:absolute md:top-[260px]  md:left-[1400px] flex flex-col gap-[10px]'>
                     <h3 className='text-[25px] font-bold'>All release notes</h3>
                     <p className='font-bold text-[14px] text-[#2B3445]'>Release 6.5: New features and...</p>
                     <p className='font-bold text-[14px] text-[#7D879C]'>Release 6.4: Hirefy: Precision Unleashed</p>
